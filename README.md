@@ -24,13 +24,12 @@
 ```yaml
 name: Filox
 location: Seine-et-Marne, France
-current_role: IT Infrastructure Technician @ Département 77 (SDNC)
+current_role: CEO @ BRcloud
 education: BTS SIO SISR @ CFA UTEC Avon
 career_goal: Cloud Engineer
 
 interests:
   - Network Architecture & Security
-  - Cloud Infrastructure (AWS, Azure, GCP)
   - Linux System Administration
   - Virtualization & Containerization
   - DevOps & Automation
@@ -52,7 +51,6 @@ currently_working_on:
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ### Networking & Security
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
@@ -64,7 +62,7 @@ currently_working_on:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Monitoring & Management
@@ -96,18 +94,20 @@ currently_working_on:
 | 🔍 **PHANTOMA** | Advanced network scanning & reconnaissance tool | `Python` `Scapy` `Nmap` |
 | ⚡ **Lumen/BRCloud** | Network performance testing suite | `C` `Sockets` `Threading` |
 | 🔐 **VPN Manager** | WireGuard deployment & management automation | `Bash` `WireGuard` `Python` |
-| 📊 **Infra Docs** | Technical documentation & diagrams | `Markdown` `FossFlow` |
+| 📊 **PERFORMA** | Load tester | `Python` |
+| 📄 **Infra Docs** | Technical documentation & diagrams | `Markdown` `FossFlow` |
 
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Filox&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Filox&theme=tokyonight&hide_border=true&border_radius=10" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filox&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" />
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Filox&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true)](https://github.com/Filox)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Filox&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/Filox)
+
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Filox&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8)](https://github.com/Filox)
 
 </div>
 
