@@ -8,11 +8,11 @@
 
 <br>
 
-<a href="https://github.com/Filox?tab=followers">
-  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Filox?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+<a href="https://github.com/FIlox77250?tab=followers">
+  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/FIlox77250?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
 </a>
-<a href="https://github.com/Filox?tab=repositories&sort=stargazers">
-  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Filox?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+<a href="https://github.com/FIlox77250?tab=repositories&sort=stargazers">
+  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/FIlox77250?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
 </a>
 
 </div>
@@ -78,11 +78,11 @@ currently_working_on:
 
 <div align="center">
 
-<a href="https://github.com/Filox/PHANTOMA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Filox&repo=PHANTOMA&theme=tokyonight&hide_border=true&border_radius=10" />
+<a href="https://github.com/FIlox77250/PHANTOMA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FIlox77250&repo=PHANTOMA&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
-<a href="https://github.com/Filox/Lumen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Filox&repo=Lumen&theme=tokyonight&hide_border=true&border_radius=10" />
+<a href="https://github.com/FIlox77250/Lumen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FIlox77250&repo=Lumen&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
 
 </div>
@@ -103,11 +103,11 @@ currently_working_on:
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Filox&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true)](https://github.com/Filox)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FIlox77250&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true)](https://github.com/FIlox77250)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Filox&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/Filox)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FIlox77250&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/FIlox77250)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Filox&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8)](https://github.com/Filox)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FIlox77250&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8)](https://github.com/FIlox77250)
 
 </div>
 
@@ -138,7 +138,7 @@ currently_working_on:
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Filox&style=for-the-badge&color=6366f1" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=FIlox77250&style=for-the-badge&color=6366f1" alt="Profile Views" />
 
 ---
 
