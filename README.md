@@ -134,8 +134,7 @@ currently_working_on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://](https://portfolio.brcloud.fr/))
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.brcloud.fr/)
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=FIlox77250&style=for-the-badge&color=6366f1" alt="Profile Views" />
