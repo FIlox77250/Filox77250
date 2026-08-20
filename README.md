@@ -25,8 +25,6 @@
 name: Filox
 location: Seine-et-Marne, France
 current_role: CEO @ BRcloud
-education: BTS SIO SISR @ CFA UTEC Avon
-career_goal: Cloud Engineer
 
 interests:
   - Network Architecture & Security
@@ -35,8 +33,6 @@ interests:
   - DevOps & Automation
 
 currently_working_on:
-  - Educational IT infrastructure management
-  - Network deployment for colleges
   - Personal cloud & networking projects
 ```
 
